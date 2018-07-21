@@ -1,2 +1,3 @@
-print("Merhaba Dünya")
-print("py merhaba")
+isim = input ( "İsmin Nedir ?")
+
+print("Hoşgeldin {}".format(isim))
